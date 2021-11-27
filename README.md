@@ -1,2 +1,4 @@
 # Discord-Guides
-Discord.js Guide / Free Code
+Discord.js Guide / Free Code 
+
+(deleted)

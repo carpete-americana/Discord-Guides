@@ -1,4 +1,4 @@
 # Discord-Guides
 Discord.js Guide / Free Code 
 
-(deleted)
+(deleted, its now private code)
